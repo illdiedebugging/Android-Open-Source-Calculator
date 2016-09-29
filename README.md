@@ -1,17 +1,6 @@
-      __                               __                                 
-    /    )                           /    )                               
----/----/------__----__----__--------\--------__----------)__----__----__-
-  /    /     /   ) /___) /   )        \     /   ) /   /  /   ) /   ' /___)
-_(____/_____/___/_(___ _/___/_____(____/___(___/_(___(__/_____(___ _(___ _
-           /                                                              
-          /          
-
-
-
-
-#No obfuscation is applied to the .apk file just dowwload and decompile it.
+#Android Open-source Calculator
+No obfuscation is applied to the .apk file just dowwload and decompile it.
 
 This is a simple .apk decompiler : http://www.javadecompilers.com/apk
 
-
-
+If you find a bug you are welcome to report it at : illdiedebugging@gmail.com
