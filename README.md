@@ -1,2 +1,20 @@
-# Android-Open-Source-Calculator
-A calculator in Android based in one of my previous java libraries projects
+
+_________        .__               .__          __                
+\_   ___ \_____  |  |   ____  __ __|  | _____ _/  |_  ___________ 
+/    \  \/\__  \ |  | _/ ___\|  |  \  | \__  \\   __\/  _ \_  __ \
+\     \____/ __ \|  |_\  \___|  |  /  |__/ __ \|  | (  <_> )  | \/
+ \______  (____  /____/\___  >____/|____(____  /__|  \____/|__|   
+        \/     \/          \/                \/                  
+          ________                           _________                                  
+          \_____  \ ______   ____   ____    /   _____/ ____  __ _________   ____  ____  
+           /   |   \\____ \_/ __ \ /    \   \_____  \ /  _ \|  |  \_  __ \_/ ___\/ __ \ 
+          /    |    \  |_> >  ___/|   |  \  /        (  <_> )  |  /|  | \/\  \__\  ___/ 
+          \_______  /   __/ \___  >___|  / /_______  /\____/|____/ |__|    \___  >___  >
+                  \/|__|        \/     \/          \/                          \/    \/ 
+
+#No obfuscation is applied to the .apk file just dowwload and decompile it.
+
+This is a simple .apk decompiler : http://www.javadecompilers.com/apk
+
+
+
